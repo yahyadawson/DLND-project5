@@ -1,2 +1,2 @@
 # DLND-project5
-Face generation using GAN
+The GAN model was deployed on floydhub.com tested successfully on the MNIST as well as CelebA dataset.
